@@ -1,7 +1,5 @@
 const http = require('http');   //импорт функции require
 const server = http.createServer((req, res) => {
-    // req запрос
-    // res ответ
     console.log("Запрос получен");
 
     if (req.url === '/') {
