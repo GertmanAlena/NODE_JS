@@ -1,0 +1,15 @@
+{
+  "name": "lectures2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lect1.js",
+  "scripts": {
+    "start": "node ./lect1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}

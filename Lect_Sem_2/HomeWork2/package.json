@@ -1,0 +1,16 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "number-to-words-ru": "^2.4.1",
+    "random": "^4.1.0"
+  }
+}
