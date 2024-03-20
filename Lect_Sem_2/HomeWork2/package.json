@@ -7,7 +7,7 @@
     "start": "node ./index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alena",
   "license": "ISC",
   "dependencies": {
     "number-to-words-ru": "^2.4.1",
